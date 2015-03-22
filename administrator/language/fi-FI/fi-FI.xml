@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- $Id: fi-FI.xml 105 2011-03-26 10:16:42Z mortti $ -->
+<metafile version="2.5" client="administrator" method="upgrade" >
+	<tag>fi-FI</tag>
+	<name>Finnish (Suomi)</name>
+	<description>Finnish administrator language</description>
+	<version>2.5.9.1</version>
+	<creationDate>2013-02-05</creationDate>
+	<author>Joomla.fi</author>
+	<authorEmail>mortti@joomla.fi</authorEmail>
+	<authorUrl>http://www.joomla.fi</authorUrl>
+	<copyright>Copyright (C) 2005 - 2013 Open Source Matters. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<metadata>
+		<name>Finnish (Suomi)</name>
+		<tag>fi-FI</tag>
+		<rtl>0</rtl>
+		<locale>fi_FI.utf8, fi_FI.UTF-8, fi_FI, fin_FI, fi, finnish, finnish-fi, fin, finland</locale>
+		<firstDay>1</firstDay>
+	</metadata>
+	<params />
+</metafile>
